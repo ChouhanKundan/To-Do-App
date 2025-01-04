@@ -92,7 +92,7 @@ ul li::before {
     height: 28px;
     width: 28px;
     border-radius: 50%;
-    background-image: url(images/uncheck-32.png);
+    background-image: url(visuals/uncheck-32.png);
     background-size: cover;
     background-position: center;
     top: 12px;
@@ -105,7 +105,7 @@ ul li.checked {
 }
 
 ul li.checked::before {
-    background-image: url(images/mark_16208218.png);
+    background-image: url(visuals/mark_16208218.png);
 }
 
 ul li span {
